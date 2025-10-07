@@ -19,9 +19,9 @@
 - カート
 - 九大のアイコンカラーをモチーフとしたデザイン
 
-## デプロイ先の URL または画面収録したファイル名
+## 画面収録したファイル名
 
-dec2024phase0100.mov
+https://drive.google.com/drive/folders/17wMq-MutaeMAeSuMeMWfOLrqL0GZFxLI?usp=sharing
 
 ## 操作手順
 
@@ -36,11 +36,11 @@ dec2024phase0100.mov
 ## 工夫した点
 
 - 動作検証用にMenuSeederを活用してデータを作成した．
-- 
+- バウチャーの文字列をランダム生成するために、Larvelのフレームワークを使用した.
 
 ## 苦戦した点
 
-- 
+- CSSの実装と、異なるページへのデータの共有
 
 ## Phase01 終えての感想
 
